@@ -15,6 +15,11 @@ Open **https://endless1977.github.io/Face-Editor/** or download [`index.html`](i
 in Chrome or Edge. Everything happens in your browser: your models are not uploaded anywhere. The page
 loads three.js from a CDN, so it needs an internet connection.
 
+Turn the head with the mouse and scroll to zoom. **Pan** with the right mouse button, the middle
+button, Shift + drag, Space + drag, the arrow keys or the buttons at the bottom left
+(*Verschuiven* makes the left button pan). Double-click the head to put the pivot there.
+Handles are see-through rings, so you can see exactly where they sit on the skin.
+
 1. **Models**: load the head (`.glb`). Optionally load a second `.glb` with eyeballs and the inside
    of a mouth (teeth, gums) and choose per part what it is: left eye, right eye or mouth.
    Turn the head so it looks straight at you and click *Dit is het vooraanzicht* (this is the front).
